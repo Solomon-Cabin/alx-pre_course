@@ -1,2 +1,1 @@
-my first readme
-README update on github.com
+my first readme edited
